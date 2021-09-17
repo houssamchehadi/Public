@@ -1,0 +1,58 @@
+1.	default-src 'self' 
+2.	'unsafe-eval' 
+3.	https://rstts-as.readspeaker.com 
+4.	https://cdn1.readspeaker.com 
+5.	https://app-as.readspeaker.com 
+6.	wss://directline.botframework.com  
+7.	https://comms.omnichannelengagementhub.com 
+8.	https://adda-chatbot-prod.azurewebsites.net 
+9.	https://orgbb3c15ea-crm15.omnichannelengagementhub.com 
+10.	https://mindrocketsinc.com  
+11.	https://arcgis.sdi.abudhabi.ae 
+12.	https://js.arcgis.com blob:; 
+13.	https://js.arcgis.com;
+14.	script-src 'self' 
+15.	https://tamm.abudhabi 
+16.	https://server.arcgisonline.com 
+17.	https://stackpath.bootstrapcdn.com 
+18.	https://api.abudhabi.ae 
+19.	http://w3.org  
+20.	https://httpbin.org 
+21.	https://directline.botframework.com  
+22.	https://www.google.com 
+23.	https://es.adpolice.gov.ae 
+24.	https://player.vimeo.com 
+25.	https://www.tamm.abudhabi 
+26.	https://recaptcha.net 
+27.	https://ssl.google-analytics.com 
+28.	https://translate.google.com 
+29.	https://translate.googleapis.com 
+30.	https://www.gstatic.com 
+31.	https://www.youtube.com 
+32.	https://s.ytimg.com 
+33.	https://webchatic3.blob.core.windows.net 
+34.	https://addastorageaccountuat.blob.core.windows.net 
+35.	https://addadevstorage.blob.core.windows.net 
+36.	https://ocsdk-prod.azureedge.net 
+37.	https://sandboxadmin.prioticket.com; 
+38.	object-src 'self'; 
+39.	img-src 'self' 
+40.	data: *; 
+41.	media-src *; 
+42.	style-src 'self' 
+43.	'unsafe-inline' 
+44.	https://fonts.googleapis.com; 
+45.	frame-src 
+46.	https://schdmngr.tamm.abudhabi 
+47.	https://www.youtube-nocookie.com 
+48.	https://www.instagram.com 
+49.	https://services.arcgisonline.com 
+50.	https://geocode.arcgis.com 
+51.	font-src 'self' 
+52.	https://mindrocketsapis.com 
+53.	https://fonts.gstatic.com data: *; 
+54.	worker-src 'self' 
+55.	https://www.tamm.abudhabi blob:; 
+56.	connect-src 'self' 
+57.	https://static.arcgis.com 
+58.	https:;
